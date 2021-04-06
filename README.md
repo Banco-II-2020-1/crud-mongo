@@ -1,4 +1,4 @@
-# crud-jedis [![Github Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtu.be/XrjQLuT4oRQ)](https://youtu.be/XrjQLuT4oRQ)
+# crud-mongo [![Github Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtu.be/XrjQLuT4oRQ)](https://youtu.be/XrjQLuT4oRQ)
 
 Exemplo de uso do cliente MongoDB para Java desenvolvido durante aula da disciplina de Bancos de Dados II, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sisteas do IFPB, campus Cajazeiras.
 
